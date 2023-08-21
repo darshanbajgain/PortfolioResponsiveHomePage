@@ -11,4 +11,4 @@ Just Made a responsive home or index page for Portfolio Website using HTML, CSS,
 HTML, CSS, and JavaScript
 
 #  LIVE PREVIEW:
-https://portfolioresponsivehomepage.netlify.app/#home
+https://portfolioresponsivehomepage.netlify.app/
